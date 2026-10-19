@@ -1,0 +1,10 @@
+* text=auto
+*.py text
+*.md text
+*.spec text
+*.bat text eol=crlf
+
+*.png binary
+*.ico binary
+*.exe binary
+*.webp binary

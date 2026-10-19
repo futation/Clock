@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller 打包产物
+build/
+dist/
+*.manifest
+
+# 备份文件
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# 系统垃圾
+Thumbs.db
+Desktop.ini
